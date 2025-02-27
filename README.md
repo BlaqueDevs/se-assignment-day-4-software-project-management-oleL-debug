@@ -10,8 +10,11 @@
   (d)Competitive Advantage,increases the opporturnities of winning against the competitotors due to timely delivering the software.
   (e)Increased Reputation and Credibility,making it easier for the proprietor or company to increase opporturnities for future tenders and projects.
 -Managers need to make sure they meet the deadlines by :
-  (a)Applying agile and iterative software development:This delivers software in increment,regular checks and feedback from client(s)
+  (a)Applying Agile and Iterative software development:This delivers software in increment,regular checks and feedback from client(s)
   (b)Proper Resouce Allocation:Enough and balanced tools and skills ie expertise even hiring more talent and balancing workload to prevent burnout.
+  (c)Prioritization and Time Management,techniques like MosCow(Must-have,Should-have,Could-have,Won't-have) should be employed,encouraging time tracking and not overloading       team members with unrealistic workloads.
+  (d)Clear Communication,maintaining proper communication lines between team members and stakeholders,use of collaboration tools like Jira,Trello and stand-up meetings to         get reviews.
+  (e)Encouraging Accountability and Ownership,where team members take ownership of their tasks,recognising team members tasks and setting clear roles and responsibilities,
   
   
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
