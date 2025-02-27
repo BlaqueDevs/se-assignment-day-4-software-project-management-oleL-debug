@@ -7,6 +7,9 @@
   (a)Client Satisfaction,meaning the softwares and software products being delivered on time aand maintaining loyalty between the two ends,ie the client and the proprietor.
   (b)Resource Management,meaning helping locating resources efficiently and avoiding idling around and bottlenecks.
   (c)Cost Control,meaning time delivery of softwares alleviates from increased labour costs due to extensions,penalties from authorities and additional resource allocation.
+  (d)Competitive Advantage,increases the opporturnities of winning against the competitotors due to timely delivering the software.
+  (e)Increased Reputation and Credibility,making it easier for the proprietor or company to increase opporturnities for future tenders and projects.
+  
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
