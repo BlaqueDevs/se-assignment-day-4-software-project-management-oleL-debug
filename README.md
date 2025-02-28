@@ -31,6 +31,25 @@
   (d)Scope Management-implementing a strict change control process prevents unnecessary scope changes.
   (e)Risk Management-identify potential risks early and develop mitigation strategies.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+  (a)Approach:With Agile Methodology ,the approach is iterative and incremental while with Waterfall Methodology it is sequential and linear.
+  (b)Flexiblility:With Agile Methodology,it is highly flexible and allows changes while with Waterfall Methodology it is rigid,changes are difficult to implement.
+  (c)Project Scope:With Agile Methodology,it evlolves over time and with Waterfall Methodology it is defined at the beginning.
+  (d)Client Involvement:With Agile Methodology,there is continuoes involvement throughout while with Waterfall Methodology,there is limited involvement after initial              requirements gathering.
+  (e)Delivery:With Agile Methodology,there are frequent,small releases called sprints while with Waterfall Methodology,it is delivered as a single product.
+  (f)Testing:With Agile Methodology,the testing is ongoing that is throiughout while Waterfall Methodology,it is performed at the end.
+  (g)Documentation:With Agile Methodology,it is minimal that is focuses on working software  while Waterfall Methodology,extensive documentation is required.
+  -Advantages of Agile Methodology
+    (a)Flexibility and Adaptability:allows changes based on customer feedback.
+    (b)Fast Delivery
+    (c)Better Collaboration
+    (d)Higher Customer Satisfaction
+    (e)Reduced Risk Failure
+  -Disadvantages of Agile Methodology
+    (a)Less Documentation Involved
+    (b)Lack of Predicatability
+    (c)Requires Skilled Team
+    (d)Scope Creep Risk:frequent changes lead to ever-expanding project scope.
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
