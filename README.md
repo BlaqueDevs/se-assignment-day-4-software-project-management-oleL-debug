@@ -49,6 +49,18 @@
     (b)Lack of Predicatability
     (c)Requires Skilled Team
     (d)Scope Creep Risk:frequent changes lead to ever-expanding project scope.
+  -Advantages of Waterfall Methodology
+    (a)Clear Structure
+    (b)Well-Documented
+    (c)Predictable Costs and Timelines
+    (d)Good For Stable Projects
+  -Disadvantages of Waterfall Methodology
+    (a)Infexibility
+    (b)Late Testing
+    (c)Longer Delivery Time
+    (d)Higher Risk of Failure.
+  -Agile Methodology is best for dynamic projects that require adaptability and continuous improvement.
+  -Waterfall Methodology is ideal for structured projects with well-defined requirements and minimal changes.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
